@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull https://github.com/noguia/alx-pre_course.git
+=======
+mkdir up_to_date
+>>>>>>> update_script
